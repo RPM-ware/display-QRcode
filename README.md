@@ -23,7 +23,7 @@ This project involves creating a QR code component using HTML and CSS. The goal 
 
 ### Link
 
-- URL: [Add solution URL here](https://github.com/your-repo)
+- URL: [Pages-URL](https://rpm-ware.github.io/display-QRcode/)
 
 ## My Process
 
